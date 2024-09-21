@@ -1,4 +1,4 @@
-package ArrayRev;
+package Revision;
 public class prefixSum{
 
     public static int findPrefixMax(int nums[]){
@@ -18,6 +18,8 @@ public class prefixSum{
 
 
     public static void main(String[] args) {
+
+        // by using kadens algorithm
         int nums[] = {-2,-3,4,-1,-2,1,5,-3};
         System.out.println(findPrefixMax(nums));
     }

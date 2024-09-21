@@ -1,4 +1,4 @@
-package ArrayRev;
+package Revision;
 
 import Recurrsion.removeDuplicate;
 
