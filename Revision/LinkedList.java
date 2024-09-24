@@ -1,7 +1,7 @@
 package Revision;
 
 import Recurrsion.removeDuplicate;
-import stackRev.stackB;
+import Stack.stackB;
 
 public class LinkedList {
     

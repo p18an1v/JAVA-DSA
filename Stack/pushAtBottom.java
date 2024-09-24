@@ -1,4 +1,4 @@
-package stackRev;
+package Stack;
 
 import java.util.Stack;
 
