@@ -3,9 +3,6 @@ package Revision;
 import java.util.InputMismatchException;
 import java.util.Scanner;
 
-import Recurrsion.lenghtOfString;
-import String.uppercase;
-
 public class StackRev {
     
     //Stack is Fist in last out opration 
