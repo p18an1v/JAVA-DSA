@@ -1,3 +1,4 @@
+package example;
 public class bear implements carnivors,harbivors {
     
     public void eat(){
