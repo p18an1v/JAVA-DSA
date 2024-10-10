@@ -45,7 +45,7 @@ public class TreeHight {
     }
 
     public static int diameter(Node root){
-
+        //O(N^2)
         if(root == null){
             return 0;
         }
@@ -74,7 +74,7 @@ public class TreeHight {
     }
 
     public static info diameter1(Node root){
-
+        //O(n)
         if(root == null){
             return new info(0, 0);
         }
