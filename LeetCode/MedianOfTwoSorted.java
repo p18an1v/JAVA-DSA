@@ -1,7 +1,5 @@
 package LeetCode;
 
-import javax.print.attribute.standard.Media;
-
 class MedianOfTwoSorted{
 
     public static void creatNewSort(int n1,int n2, int arr1[], int arr2[]){
